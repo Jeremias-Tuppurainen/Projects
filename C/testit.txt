@@ -1,0 +1,468 @@
+Kirjautuminen->pin-koodi: ---
+
+Tervetuloa!
+Anna tilin numero, ole hyv├ñ.   
+ Mik├ñli haluat poistua paina 0.
+11
+Tuntematon tilinumero
+Anna tilin numero, ole hyv├ñ.   
+ Mik├ñli haluat poistua paina 0.
+ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+Tuntematon tilinumero        
+Anna tilin numero, ole hyv├ñ.
+ Mik├ñli haluat poistua paina 0.
+Tuntematon tilinumero
+Anna tilin numero, ole hyv├ñ.
+ Mik├ñli haluat poistua paina 0.
+Tuntematon tilinumero
+Anna tilin numero, ole hyv├ñ.
+ Mik├ñli haluat poistua paina 0.
+12345
+N├ñpp├ñile tunnusluku 
+Suojaa tunnuslukusi
+Lopuksi paina Enter
+Anna tunnusluku
+11
+V├ñ├ñr├ñ salasana!
+
+ Potta.
+kiitos k├ñynnist├ñ
+Tervetuloa uudelleen
+
+Anna tilin numero, ole hyv├ñ.   
+ Mik├ñli haluat poistua paina 0.
+12345
+N├ñpp├ñile tunnusluku 
+Suojaa tunnuslukusi   
+Lopuksi paina Enter   
+Anna tunnusluku       
+55668
+Kirjauduttu sis├ñ├ñn onnistuneesti.
+Valitse
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+
+Valikko->puheaika:  ---
+
+Valitse
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+8
+Mit├ñ jos opettelisit laskemaan
+Valitse
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+1
+Liittym├ñn lataus 
+Valitse palvelu
+ 1. Saunalahti
+ 2. dna
+ 3. Go Mobile
+1
+Liittym├ñn lataus 
+Sy├Ât├ñ Saunalahti puhelinnumero
+ (esim. 041987...)
+ ja paina Enter
+45645645
+Liittym├ñn lataus 
+ 1. 10 euroa
+ 2. 15 euroa
+ 3. 20 euroa
+ 4. 25 euroa
+ 5. 30 euroa
+ 6. 50 euroa
+ 7. 100 euroa
+3
+Liittym├ñn lataus 
+Hyv├ñksy maksu
+Puhelinnumero: 45645644
+Ladattava Summa 20.00 +
+Otto tililt├ñ 20.00 -
+1. Hyv├ñksy
+ 2. Stop
+1
+Ota kortti, ole hyv├ñ 
+Puheaika maksettu
+Latausvahvistus tekstiviestill├ñ
+
+Oletko valmis poistumaan (1), vai onko viel├ñ asioitavaa? (2)
+2
+Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+1
+Liittym├ñn lataus
+Valitse palvelu 
+ 1. Saunalahti
+ 2. dna
+ 3. Go Mobile
+2
+Liittym├ñn lataus 
+Sy├Ât├ñ DNA puhelinnumero
+ (esim. 041987...)
+ ja paina Enter
+568685698
+Liittym├ñn lataus 
+ 1. 10 euroa
+ 2. 15 euroa
+ 3. 20 euroa
+ 4. 25 euroa
+ 5. 30 euroa
+ 6. 50 euroa
+ 7. 100 euroa
+7
+Liittym├ñn lataus 
+Hyv├ñksy maksu
+Puhelinnumero: 568685696
+Ladattava Summa 100.00 +
+Otto tililt├ñ 100.00 -
+1. Hyv├ñksy
+ 2. Stop
+1
+Ota kortti, ole hyv├ñ 
+Puheaika maksettu
+Latausvahvistus tekstiviestill├ñ
+
+Oletko valmis poistumaan (1), vai onko viel├ñ asioitavaa? (2)
+2
+Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+1
+Liittym├ñn lataus 
+Valitse palvelu
+ 1. Saunalahti
+ 2. dna
+ 3. Go Mobile
+3
+Liittym├ñn lataus 
+Sy├Ât├ñ Go Mobile puhelinnumero
+ (esim. 041987...)
+ ja paina Enter
+8568685674
+Liittym├ñn lataus 
+ 1. 10 euroa
+ 2. 15 euroa
+ 3. 20 euroa
+ 4. 25 euroa
+ 5. 30 euroa
+ 6. 50 euroa
+ 7. 100 euroa
+6
+Liittym├ñn lataus 
+Hyv├ñksy maksu
+Puhelinnumero: -2147483648
+Ladattava Summa 50.00 +
+Otto tililt├ñ 50.00 -
+1. Hyv├ñksy
+ 2. Stop
+1
+Ota kortti, ole hyv├ñ 
+Puheaika maksettu
+Latausvahvistus tekstiviestill├ñ
+
+Oletko valmis poistumaan (1), vai onko viel├ñ asioitavaa? (2)
+2
+Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+1
+Liittym├ñn lataus
+Valitse palvelu 
+ 1. Saunalahti
+ 2. dna
+ 3. Go Mobile
+1
+Liittym├ñn lataus 
+Sy├Ât├ñ Saunalahti puhelinnumero
+ (esim. 041987...)
+ ja paina Enter
+2
+Liittym├ñn lataus 
+ 1. 10 euroa
+ 2. 15 euroa
+ 3. 20 euroa
+ 4. 25 euroa
+ 5. 30 euroa
+ 6. 50 euroa
+ 7. 100 euroa
+8
+Mit├ñ jos opettelisit laskemaan
+
+otto ---
+
+Valitse
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+2
+Otto 
+1. 20
+ 2. 40
+ 3. 50
+ 4. 100
+ 5. 140
+ 6. 240
+ 7. Muu summa
+ 8. Alkuun
+7
+Anna nostettava summa
+999
+haluatko tiedot? 
+1. Ei kiitos
+ 2. n├ñyt├Âlle
+2
+Nosto 999 euroa
+Ota kortti, ole hyv├ñ
+Rahat tulossa
+
+Ota rahat, ole hyv├ñ
+
+saldo:	---
+
+Valitse
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+3
+Tilin tilanne 
+Tilin saldo: 20000000.00
+Tililt├ñ nostettavissa: 20000000.00
+Kortin k├ñteisnostovara: 1000.00
+
+Oletko valmis poistumaan?
+Jos haluat muuttaa kortin k├ñteisnostovaraa paina 2
+2
+Anna uusi k├ñteisnostovara: 20000000000000000000000000000
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+Mit├ñ jos opettelisit laskemaan
+
+Valitse
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+3
+Tilin tilanne 
+Tilin saldo: 20000000.00
+Tililt├ñ nostettavissa: 20000000.00
+Kortin k├ñteisnostovara: 1000.00
+
+Oletko valmis poistumaan?
+Jos haluat muuttaa kortin k├ñteisnostovaraa paina 2
+2
+Anna uusi k├ñteisnostovara: 20000000000000000000000000000000000000000000
+Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+1
+Liittym├ñn lataus 
+Valitse palvelu
+ 1. Saunalahti
+ 2. dna
+ 3. Go Mobile
+2
+Liittym├ñn lataus 
+Sy├Ât├ñ DNA puhelinnumero
+ (esim. 041987...)
+ ja paina Enter
+2
+Liittym├ñn lataus 
+ 1. 10 euroa
+ 2. 15 euroa
+ 3. 20 euroa
+ 4. 25 euroa
+ 5. 30 euroa
+ 6. 50 euroa
+ 7. 100 euroa
+2
+Liittym├ñn lataus 
+Hyv├ñksy maksu
+Puhelinnumero: 2
+Ladattava Summa 15.00 +
+Otto tililt├ñ 15.00 -
+1. Hyv├ñksy
+ 2. Stop
+2
+Ota kortti, ole hyv├ñ 
+Puheaika maksettu
+Latausvahvistus tekstiviestill├
+Oletko valmis poistumaan (1), vai onko viel├ñ asioitavaa? (2)
+2
+Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+3
+Tilin tilanne 
+Tilin saldo: 19999984.00
+Tililt├ñ nostettavissa: 19999984.00
+Kortin k├ñteisnostovara: -21474836.00
+
+Oletko valmis poistumaan?
+Jos haluat muuttaa kortin k├ñteisnostovaraa paina 2
+
+tapahtumat ---
+
+Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+4
+Historian alku:
+Kirjautui sis├ñ├ñn
+Nosto 999 euroa
+
+Paina mit├ñ tahansa n├ñpp├ñint├ñ palataksesi.
+
+Valitse
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+7
+
+tilit ja tilien luonti ---
+
+Uusi tili luotu onnistuneesti
+Paina mit├ñ tahansa n├ñpp├ñint├ñ palataksesi.
+Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+7
+Uusi tili luotu onnistuneesti
+Paina mit├ñ tahansa n├ñpp├ñint├ñ palataksesi.
+Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+5
+Mit├ñ tili├ñ haluat k├ñytt├ñ├ñ
+Tili 1
+Tili 2
+Tili 3
+3
+3Valitse 
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+
+stop --- 
+
+Tervetuloa!
+Anna tilin numero, ole hyv├ñ.   
+ Mik├ñli haluat poistua paina 0.
+12345
+N├ñpp├ñile tunnusluku 
+Suojaa tunnuslukusi   
+Lopuksi paina Enter   
+Anna tunnusluku       
+55668
+Kirjauduttu sis├ñ├ñn onnistuneesti.
+Valitse
+voit lopettaa valitsemalla STOP
+ 1. Liittym├ñn lataus, Puheaika
+ 2. Otto
+ 3. Saldo
+ 4. Tapahtumat
+ 5. Tilin valinta
+ 6. Stop
+ 7. Tee uusi tili
+6
+
+ Potta.
+kiitos k├ñynnist├ñ
+Tervetuloa uudelleen
