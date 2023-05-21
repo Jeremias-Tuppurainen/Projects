@@ -1,0 +1,1 @@
+This project's purpose was to create a todo list, where you could choose a person from a list and then add a task for them, and it would show up in the task list.
